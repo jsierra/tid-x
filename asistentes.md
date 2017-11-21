@@ -57,3 +57,4 @@ localización).
 - [Hugo Ferrando](https://github.com/hugo19941994) (Madrid)
 - [Jesús Latorre](https://github.com/jeslat) (Madrid)
 - [Massimo Barone](https://github.com/mbarone) (Madrid)
+- [Javier Sierra](https://github.com/jsierra) (Madrid)
